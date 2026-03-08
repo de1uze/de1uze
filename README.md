@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate FrontEnd developer from India 🇮🇳</h3>
+<h1 align="center">Pratik Shringarpure</h1>
+<h3 align="center">Cybersecurity Graduate Student | SOC & Detection Engineering</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de1uze&label=Profile%20views&color=0e75b6&style=flat" alt="de1uze" /> </p>

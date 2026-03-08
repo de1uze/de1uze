@@ -1,23 +1,135 @@
 <h1 align="center">Pratik Shringarpure</h1>
-<h3 align="center">Cybersecurity Graduate Student | SOC & Detection Engineering</h3>
+<h3 align="center">Cybersecurity Graduate Student | SOC Analyst | Detection Engineering</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=de1uze&label=Profile%20views&color=0e75b6&style=flat" alt="de1uze" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de1uze" alt="de1uze" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik9423/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik9423/" height="30" width="40" /></a>
-<a href="https://instagram.com/dominoexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominoexe" height="30" width="40" /></a>
+<p align="center">
+MSc Cybersecurity @ Yeshiva University (GPA: 3.98) <br>
+Focused on Security Operations, Incident Response, Threat Hunting & SIEM Detection Engineering
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=de1uze&show_icons=true&locale=en&layout=compact" alt="de1uze" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=de1uze&show_icons=true&locale=en" alt="de1uze" /></p>
+Cybersecurity graduate student with hands-on experience in SIEM monitoring, incident response, vulnerability assessment, and threat detection.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=de1uze&" alt="de1uze" /></p>
+Currently building projects in:
+
+- Security Operations (SOC)
+- Detection Engineering
+- Threat Hunting
+- Vulnerability Assessment
+- Incident Investigation
+
+---
+
+## Certifications
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-SC--200-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Security%20Alliance-CCSK-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-green?style=for-the-badge&logo=iso&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-yellow?style=for-the-badge&logo=google&logoColor=black"/>
+
+</p>
+
+---
+
+## Cybersecurity Projects
+
+### SOC Incident Investigation
+Investigated malicious network traffic using PCAP data and Wireshark.
+
+Tools: Wireshark, VirusTotal, MITRE ATT&CK  
+Focus: Malware communication & C2 detection
+
+---
+
+### SIEM Detection Engineering Lab
+Built detection rules in Microsoft Sentinel to detect brute force and privilege escalation activity.
+
+Tools: Microsoft Sentinel, KQL, Azure Logs
+
+---
+
+### Threat Hunting Case Study
+Performed proactive log analysis to identify suspicious PowerShell activity and anomalous login behavior.
+
+Tools: Log analysis, MITRE ATT&CK
+
+---
+
+### Web Application Penetration Test
+Conducted vulnerability testing against OWASP Juice Shop.
+
+Tools: Burp Suite, OWASP Top 10
+
+---
+
+## Security Tools & Technologies
+
+### SIEM & Monitoring
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-blue?style=for-the-badge&logo=microsoft"/>
+<img src="https://img.shields.io/badge/SIEM-Log%20Analysis-orange?style=for-the-badge"/>
+</p>
+
+### Security Testing
+<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenVAS-green?style=for-the-badge"/>
+</p>
+
+### Forensics & Investigation
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-purple?style=for-the-badge"/>
+</p>
+
+### Programming & Systems
+<p>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Windows-gray?style=for-the-badge"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=de1uze&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=de1uze&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de1uze&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/pratik9423">
+<img src="https://img.shields.io/badge/LinkedIn-Pratik%20Shringarpure-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:pratikds@proton.me">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
